@@ -1,4 +1,3 @@
-// AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
 import React, { useState } from 'react';
 import Convert from './Convert';
 import Dropdown from './Dropdown';
@@ -13,8 +12,8 @@ const options = [
 		value: 'ar',
 	},
 	{
-		label: 'Hindi',
-		value: 'hi',
+		label: 'Russian',
+		value: 'ru',
 	},
 ];
 
